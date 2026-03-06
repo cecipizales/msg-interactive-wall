@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Wall - Creative Use of AI - Application",
+  "description": "Real-time 3D mosaic camera app",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
